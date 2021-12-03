@@ -15,7 +15,6 @@ fun main() {
         return hpos * dpos
     }
 
-
     fun part2(input: List<String>): Int {
         var hpos = 0
         var dpos = 0
